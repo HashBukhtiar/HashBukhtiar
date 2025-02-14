@@ -9,7 +9,13 @@
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 I'm a **Student🎓 [@ McMaster University](https://www.eng.mcmaster.ca/ibiomed/)** double majoring in Software and Biomedical Engineering. I'm a **Tech Enthusiast** passionate about learning and working with new technology. I love building interesting and amazing products that have a positive impact on the world. <br/><br/>
-  
+
+<p align="center">
+<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashBukhtiar&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="HashBukhtiar's Github Stats" />
+<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=HashBukhtiar&theme=gotham&hide_border=true" alt="HashBukhtiar's Github Stats" />
+</p>
+
+
 ### 🖥️ My Dev Setup
 <img src="https://img.shields.io/badge/Windows-004fe1.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-34A853.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-633e7d.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white"> 
 
@@ -41,14 +47,6 @@ I'm a **Student🎓 [@ McMaster University](https://www.eng.mcmaster.ca/ibiomed/
 <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Node.js" alt="Node.js" width="40px" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4">|<img title="Raspberry Pi" alt="Raspberry Pi" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|--|
 <br>
-
-
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=HashBukhtiar&show_icons=true&line_height=21&theme=react" alt="HashBukhtiar's Github Stats" />
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
-</p>
 
 <!--
 **HashBukhtiar/HashBukhtiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
