@@ -11,8 +11,8 @@
 I'm a **Student🎓 [@ McMaster University](https://www.eng.mcmaster.ca/ibiomed/)** double majoring in Software and Biomedical Engineering. I'm a **Tech Enthusiast** passionate about learning and working with new technology. I love building interesting and amazing products that have a positive impact on the world. <br/><br/>
 
 <p align="center">
-<img width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashBukhtiar&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="HashBukhtiar's Github Stats" />
-<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=HashBukhtiar&theme=gotham&hide_border=true" alt="HashBukhtiar's Github Stats" />
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashBukhtiar&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="HashBukhtiar's Github Stats" />
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=HashBukhtiar&theme=gotham&hide_border=true" alt="HashBukhtiar's Github Stats" />
 </p>
 
 
