@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:hashbukhtiar@gmail.com)
 
 ### A little about me...  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRzNXN3bXRidHBobXJiOHJ5NnRsaG5vYTBhOWxlOGkwOWczcXRuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif" width="50"> 
-I'm a **Student🎓 [@ McMaster University](https://www.eng.mcmaster.ca/ibiomed/)** double majoring in Software and Biomedical Engineering. I'm a **Tech Enthusiast** passionate about learning and working with new technology. I love building interesting and amazing products that have a positive impact on the world. <br/><br/>
+I'm a **Student🎓 [@ McMaster University](https://www.eng.mcmaster.ca/ibiomed/)** double majoring in Software and Biomedical Engineering. I have a keen enthusiasm for blending diverse engineering principles into seamless solutions. My curiosity extends across multiple fields, such as artificial intelligence, robotics, full-stack development, embedded systems, and data analytics. Through various projects, I've been able to explore these areas, harnessing technology to address real-world challenges and develop innovative solutions. <br/><br/>
 
 <p align="center">
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashBukhtiar&theme=gotham&show_icons=true&hide_border=true&layout=compact" alt="HashBukhtiar's Github Stats" />
