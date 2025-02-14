@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)](https://www.linkedin.com/in/hashimbukhtiar/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:hashbukhtiar@gmail.com)
 
-### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
+### A little about me...  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWRzNXN3bXRidHBobXJiOHJ5NnRsaG5vYTBhOWxlOGkwOWczcXRuayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B4jfJqiIxvU08/giphy.gif" width="50"> 
 I'm a **Student🎓 [@ McMaster University](https://www.eng.mcmaster.ca/ibiomed/)** double majoring in Software and Biomedical Engineering. I'm a **Tech Enthusiast** passionate about learning and working with new technology. I love building interesting and amazing products that have a positive impact on the world. <br/><br/>
 
 <p align="center">
