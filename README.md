@@ -34,8 +34,8 @@ I'm a **Student🎓 [@ McMaster University](https://www.eng.mcmaster.ca/ibiomed/
 
 **Infrastructure**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="GCP" alt="GCP" width="40px" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">
-|--|--|--|
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="GCP" alt="GCP" width="40px" src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png">|<img title="Firebase" alt="Firebase" width="35px" src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png">
+|--|--|--|--|
 
 **Databases**
 
