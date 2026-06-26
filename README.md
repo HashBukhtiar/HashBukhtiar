@@ -17,7 +17,7 @@ I'm a **Student🎓 [@ McMaster University](https://www.eng.mcmaster.ca/ibiomed/
 
 
 ### 🖥️ My Dev Setup
-<img src="https://img.shields.io/badge/Windows-004fe1.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-34A853.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-633e7d.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white"> 
+<img src="https://img.shields.io/badge/Mac-000000.svg?&style=flat-square&logo=apple&logoColor=white"> <img src="https://img.shields.io/badge/Chrome-34A853.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-633e7d.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white"> 
 
 ### ⚙️ Some Tools and Technologies I Use
 
